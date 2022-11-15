@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "% %",
+    "###"
+
+  ],
+  "key": {
+    "#": {
+      "item": "taverndrinkmod:steel"
+
+    },
+    "%": {
+      "item": "minecraft:oak_planks"
+    }
+  },
+  "result": {
+      "item": "taverndrinkmod:drink_barrel"
+  }
+
+}

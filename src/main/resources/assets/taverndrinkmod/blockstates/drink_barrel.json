@@ -1,0 +1,9 @@
+{
+ "variants": {
+   "facing=north": {"model": "taverndrinkmod:block/drink_barrel"},
+   "facing=east": {"model": "taverndrinkmod:block/drink_barrel","y":90},
+   "facing=south": {"model": "taverndrinkmod:block/drink_barrel","y": 180},
+   "facing=west": {"model": "taverndrinkmod:block/drink_barrel","y": 270}
+ }
+
+}

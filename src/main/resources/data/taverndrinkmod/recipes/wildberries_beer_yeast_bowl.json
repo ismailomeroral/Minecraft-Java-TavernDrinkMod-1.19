@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "*é+",
+    "&#-",
+    " % "
+  ],
+  "key": {
+    "#": {
+      "item": "taverndrinkmod:beer_yeast"
+
+    },
+    "&": {
+      "item": "taverndrinkmod:hops"
+    },
+    "%": {
+      "item": "minecraft:bowl"
+    },
+    "é": {
+      "item": "minecraft:sweet_berries"
+    },
+    "+": {
+      "item": "taverndrinkmod:raspberry"
+    },
+    "-": {
+      "item": "taverndrinkmod:blueberry"
+    },
+    "*": {
+      "item": "taverndrinkmod:blackberry"
+    }
+  },
+  "result": {
+      "item": "taverndrinkmod:wildberries_beer_yeast_bowl"
+  }
+
+}

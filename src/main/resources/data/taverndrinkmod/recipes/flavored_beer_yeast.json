@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#&",
+    "&%"
+  ],
+  "key": {
+    "#": {
+      "item": "taverndrinkmod:beer_yeast"
+
+    },
+    "&": {
+      "item": "taverndrinkmod:hops"
+    },
+    "%": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+      "item": "taverndrinkmod:flavored_beer_yeast_bowl"
+  }
+
+}

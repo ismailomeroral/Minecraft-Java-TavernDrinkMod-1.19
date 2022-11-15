@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "steel",
+  "ingredient": [
+    {
+      "item": "minecraft:iron_ingot"
+    }
+
+    ],
+  "result":"taverndrinkmod:steel"
+
+    }

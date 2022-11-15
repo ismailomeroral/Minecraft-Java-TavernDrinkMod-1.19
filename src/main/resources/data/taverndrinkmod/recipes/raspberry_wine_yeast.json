@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#&",
+    "&%"
+  ],
+  "key": {
+    "#": {
+      "item": "taverndrinkmod:wine_yeast"
+
+    },
+    "&": {
+      "item": "taverndrinkmod:raspberry"
+    },
+    "%": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+      "item": "taverndrinkmod:raspberry_wine_yeast_bowl"
+  }
+
+}

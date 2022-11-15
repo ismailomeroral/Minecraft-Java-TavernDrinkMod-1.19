@@ -1,0 +1,9 @@
+{
+ "variants": {
+   "facing=north": {"model": "taverndrinkmod:block/fermenter_barrel"},
+   "facing=east": {"model": "taverndrinkmod:block/fermenter_barrel","y":90},
+   "facing=south": {"model": "taverndrinkmod:block/fermenter_barrel","y": 180},
+   "facing=west": {"model": "taverndrinkmod:block/fermenter_barrel","y": 270}
+ }
+
+}

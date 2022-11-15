@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+
+  ],
+  "key": {
+    "#": {
+      "item": "taverndrinkmod:blueberry"
+
+    }
+  },
+  "result": {
+      "item": "taverndrinkmod:blueberry_seeds",
+    "count": 4
+  }
+
+}

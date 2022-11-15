@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "taverndrinkmod:tankard",
+    "taverndrinkmod:fermenter_barrel",
+    "taverndrinkmod:drink_barrel"
+  ]
+}

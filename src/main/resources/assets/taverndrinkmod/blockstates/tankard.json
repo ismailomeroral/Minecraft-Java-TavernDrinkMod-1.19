@@ -1,0 +1,9 @@
+{
+ "variants": {
+   "facing=north": {"model": "taverndrinkmod:block/tankard"},
+   "facing=east": {"model": "taverndrinkmod:block/tankard","y":90},
+   "facing=south": {"model": "taverndrinkmod:block/tankard","y": 180},
+   "facing=west": {"model": "taverndrinkmod:block/tankard","y": 270}
+ }
+
+}

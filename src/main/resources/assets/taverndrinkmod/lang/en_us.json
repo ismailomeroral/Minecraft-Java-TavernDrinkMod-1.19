@@ -1,0 +1,76 @@
+{
+ "block.taverndrinkmod.steel_block": "Steel Block",
+
+ "item.taverndrinkmod.steel": "Steel",
+ "block.taverndrinkmod.tankard":"Tankard",
+ "block.taverndrinkmod.fermenter_barrel":"Fermenter Barrel",
+ "block.taverndrinkmod.drink_barrel":"Drink Barrel",
+
+ "item.taverndrinkmod.eight_ball": "Dice",
+
+ "item.taverndrinkmod.yeast": "Yeast",
+ "item.taverndrinkmod.beer_yeast": "Beer Yeast",
+  "item.taverndrinkmod.wine_yeast": "Wine Yeast",
+ "item.taverndrinkmod.old_beer_yeast": "Old Beer Yeast",
+ "item.taverndrinkmod.old_wine_yeast": "Old Wine Yeast",
+
+  "item.taverndrinkmod.sweetberry_beer_yeast_bowl": "Sweet berry Beer Yeast Bowl",
+  "item.taverndrinkmod.glow_berries_beer_yeast_bowl": "Glow Berries Beer Yeast Bowl",
+  "item.taverndrinkmod.apple_beer_yeast_bowl": "Apple Beer Yeast Bowl",
+ "item.taverndrinkmod.flavored_beer_yeast_bowl": "Flavored Beer Yeast Bowl",
+ "item.taverndrinkmod.wildberries_beer_yeast_bowl": "wild Berries Beer Yeast Bowl",
+
+  "item.taverndrinkmod.sweetberries_wine_yeast_bowl": "Sweet berry Wine Yeast Bowl",
+  "item.taverndrinkmod.glow_berries_wine_yeast_bowl": "Glow Berries Wine Yeast Bowl",
+ "item.taverndrinkmod.apple_wine_yeast_bowl": "Apple Wine Yeast Bowl",
+ "item.taverndrinkmod.watermelon_wine_yeast_bowl": "Watermelon Wine Yeast Bowl",
+
+ "item.taverndrinkmod.blackberry_wine_yeast_bowl": "Blackberry Wine Yeast Bowl",
+ "item.taverndrinkmod.blueberry_wine_yeast_bowl": "Blueberry Wine Yeast Bowl",
+ "item.taverndrinkmod.grape_wine_yeast_bowl": "Grape Wine Yeast Bowl",
+ "item.taverndrinkmod.raspberry_wine_yeast_bowl": "Raspberry Wine Yeast Bowl",
+ "item.taverndrinkmod.rose_wine_yeast_bowl": "Rose Wine Yeast Bowl",
+
+ "item.taverndrinkmod.soap_water_bucket": "Soap Water Bucket",
+
+ "item.taverndrinkmod.apple_beer_bucket": "Apple Beer Bucket",
+ "item.taverndrinkmod.flovered_beer_bucket": "Flovered Beer Bucket",
+ "item.taverndrinkmod.glowberries_beer_bucket": "Glow Berries Beer Bucket",
+ "item.taverndrinkmod.sweetberries_beer_bucket": "Sweet Berries Beer Bucket",
+ "item.taverndrinkmod.wildberries_beer_bucket": "Wild Berries Beer Bucket",
+
+ "item.taverndrinkmod.apple_wine_bucket": "Apple Wine Bucket",
+ "item.taverndrinkmod.blackberry_wine_bucket": "Blackberry Wine Bucket",
+ "item.taverndrinkmod.blueberry_wine_bucket": "Blueberry Wine Bucket",
+ "item.taverndrinkmod.glowberries_wine_bucket": "Glow Berries Wine Bucket",
+ "item.taverndrinkmod.grape_wine_bucket": "Grape Wine Bucket",
+ "item.taverndrinkmod.raspberry_wine_bucket": "Raspberry Wine Bucket",
+ "item.taverndrinkmod.rose_wine_bucket": "Rose Wine Bucket",
+ "item.taverndrinkmod.sweetberries_wine_bucket": "Sweet Berries Wine Bucket",
+ "item.taverndrinkmod.watermelon_wine_bucket": "Watermelon Wine Bucket",
+
+ "item.taverndrinkmod.hops": "Hops",
+ "item.taverndrinkmod.hops_seeds": "Hops Seed",
+ "block.taverndrinkmod.hops_crop": "Hops Crop",
+
+ "item.taverndrinkmod.blueberry": "Blueberry",
+ "item.taverndrinkmod.blueberry_seeds": "Blueberry Seed",
+ "block.taverndrinkmod.blueberry_crop": "Blueberry Crop",
+
+
+ "item.taverndrinkmod.grape": "Grape",
+ "item.taverndrinkmod.grape_seeds": "Grape Seed",
+ "block.taverndrinkmod.grape_crop": "Grape Crop",
+
+ "item.taverndrinkmod.raspberry": "RaspBerry",
+ "block.taverndrinkmod.raspberry_bush": "Raspberry Bush",
+
+
+ "item.taverndrinkmod.blackberry": "BlackBerry",
+ "block.taverndrinkmod.blackberry_bush": "Blackberry Bush",
+
+ "itemGroup.taverndrinkbuckettab": "Tavern Drinks Bucket & Tankard",
+ "itemGroup.taverndrinktab": "Tavern Drinks Tab",
+
+ "entity.minecraft.villager.taverndrinkmod.drink_master": "Drink Master"
+}
